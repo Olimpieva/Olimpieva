@@ -1,8 +1,7 @@
 ## Hi, I'm Nataly! 👽
 
 I am a web-developer.    
-I am going through the path from a beginner to a frontend master.       
-I like looking for simple solutions to complex problems and I know how to do it.   
+I am going through the path from a beginner to a frontend master.         
 
 ## Skills   
 
