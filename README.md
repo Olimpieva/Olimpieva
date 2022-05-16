@@ -11,16 +11,12 @@ I am going through the path from a beginner to a frontend master.
 [![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=white)](https://redux.js.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com)
 [![Mongo](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 [![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=Jest&logoColor=white)](https://jestjs.io)
 [![Webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org/)
-
-## Currently studying
-
-[![Next.Js](https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=Next.Js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 
 ## Stats  
