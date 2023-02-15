@@ -1,7 +1,6 @@
 ## Hi, I'm Nataly! 👽
-
-I am a web-developer.    
-I am going through the path from a beginner to a frontend master.         
+  
+I know how to solve complex problems the simple way    
 
 ## Skills   
 
@@ -18,10 +17,6 @@ I am going through the path from a beginner to a frontend master.
 [![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=Jest&logoColor=white)](https://jestjs.io)
 [![Webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org/)
 [![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
-
-## Stats  
-![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=olimpieva&layout=compact&theme=tokyonight)  
-![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=olimpieva&show_icons=true&theme=tokyonight)    
 
 ## I've read them all 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
